@@ -9,7 +9,7 @@ document.querySelector('body').classList.toggle('mobile-nav-active');
 // Typing effect
 
 let typed = new Typed('.auto-input', {
-    strings: ['Front-End Developer!','Front-End Developer!','Front-End Developer!','Front-End Developer!'],
+    strings: ['Welcome.','Welcome.','Welcome.','Welcome.'],
     typeSpeed: 100,
     backSpeed: 150,
     backDelay: 2000,
